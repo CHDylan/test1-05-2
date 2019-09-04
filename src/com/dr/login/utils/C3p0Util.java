@@ -31,11 +31,11 @@ public class C3p0Util {
 	
 	/**
 	 * 通用的查询多条数据的方法
-	 * @param sql
-	 * @param t
+	 * @param sql是sdf手动手动
+	 * @param tsdfsdfsdfsdf是打电话
 	 * @param params
-	 * @return
-	 * @throws SQLException
+	 * @return撒打算东方闪电手动sdf手动手动
+	 * @throws SQLException手动sdfsdfsdf手动
 	 */
 	public static <T>List<T> queryList(String sql,Class<T> t,Object...params)
 			throws SQLException{
